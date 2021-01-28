@@ -1,0 +1,11 @@
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\bin\Debug\simplestFunctionInVB.exe.config
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\bin\Debug\simplestFunctionInVB.exe
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\bin\Debug\simplestFunctionInVB.pdb
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\bin\Debug\simplestFunctionInVB.xml
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\obj\Debug\simplestFunctionInVB.vbprojAssemblyReference.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\obj\Debug\simplestFunctionInVB.Resources.resources
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\obj\Debug\simplestFunctionInVB.vbproj.GenerateResource.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\obj\Debug\simplestFunctionInVB.vbproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\obj\Debug\simplestFunctionInVB.exe
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\obj\Debug\simplestFunctionInVB.xml
+C:\Users\petr8\Desktop\visual_basic-rekvalifikace\ucim_se_2021-01-28\jednoduchaFunkce_vb_na_GitHub\stuff\simplestFunctionInVB\obj\Debug\simplestFunctionInVB.pdb
